@@ -1,6 +1,6 @@
-#Homework 6 for History of Data Science, Spring 2022 @ UC San Diego
+# Homework 6 for History of Data Science, Spring 2022 @ UC San Diego
 
-##Xikai Wu (x5wu@ucsd.edu)
+## Xikai Wu (x5wu@ucsd.edu)
 
 ## Question 1 Visualizing John Snow's London Map
 
